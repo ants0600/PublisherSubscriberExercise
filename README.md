@@ -7,6 +7,20 @@
 * In this study case, we don't use internet protocol.
 * Instead, we simulate publisher subscriber using Windows Event Log functions.
 
+### Requirements
+
+1) Visual Studio 2022
+
+2) Powershell
+
+### Demo
+
+1) Basic theory: https://youtu.be/XTR2URy2pnI
+
+2) Build and run apps: https://youtu.be/Cf6vZy8ho3c
+
+3) Explanation about coding: https://youtu.be/iSsrLxeIrnE
+
 ### How to install
 
 1) Clone this repository, use master branch as default.
