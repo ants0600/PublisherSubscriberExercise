@@ -21,6 +21,8 @@
 
 3) Explanation about coding: https://youtu.be/iSsrLxeIrnE
 
+4) Publish subscribe functions sample in the real world (mobile apps push notifications): https://youtu.be/tITSX-DYLOg
+
 ### How to install
 
 1) Clone this repository, use master branch as default.
